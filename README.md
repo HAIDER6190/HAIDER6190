@@ -7,8 +7,8 @@ Backend Developer and ML
 I am a passionate Backend Developer, Machine Learning Engineer, and Mobile Application Developer with over five years of continuous coding experience and learning. I specialize in building scalable backend systems, developing intelligent machine learning solutions, and creating modern, user-friendly applications.
 
 * 🌍  I'm based in Somalia
-* 🧠  I'm currently learning AI Automation and N8n
-* 👥  I'm looking to collaborate on backend project like Python Nodejs Java Php C#
+* 🧠  I'm currently learning AI 
+* 👥  I'm looking to collaborate on backend project like Python Nodejs Java  C#
 * 💬  Ask me about Secretly a bug-slayer. Errors are my villains.
 
 <p align="left">
